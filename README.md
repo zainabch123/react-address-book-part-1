@@ -16,9 +16,9 @@ Using the list of requirements in the section below, create plans or diagrams th
     - This could be a flow diagram or a simple bullet point list that details how a user interacts with the application
 - A component tree **(Required)**
     - This should be a simple diagram that details which React components you are going to create and where they exist in the hierarchy. Include any state that each component will be responsible for in this diagram.
-- A style guide **(Optional)**
+- A style guide **(Optional - Extension)**
     - A simple document that lists common CSS values to be used, such as text colours & fonts, button colours etc.
-- A prototype app **(Optional)**
+- A prototype app **(Optional - Extension)**
     - A very simple app that demonstrates the desired functionality. This could be entirely done in the `App` component with hard-coded state values and no styling
 
 ## Requirements
