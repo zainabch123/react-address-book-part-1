@@ -23,7 +23,6 @@ Using the list of requirements in the section below, create plans or diagrams th
 
 ## Requirements
 
-- All data should be retrieved, stored and changed via the API provided by json-server
 1. A user can view a dashboard that displays a list of contacts
     - Each contact in the list should be displayed as their first and last names
 2. A user can click a contact's name to view more details about that contact
