@@ -1,7 +1,5 @@
 # React - Address Book Part 1
 
-![](./_assets/address-book.gif)
-
 ## Introduction
 
 This exercise is entirely focused on planning the development of an application. With the exception of the optional prototype instruction, this repository should not contain any application source code.
@@ -33,4 +31,8 @@ Using the list of requirements in the section below, create plans or diagrams th
 
 ## Notes
 
-- Your app does not need to look exactly like the image at the top of this readme file as long as it satisfies the requirements
+- The example below demonstrates the type of functionality required
+- Your app does not need to look exactly like the example below as long as it satisfies the requirements
+
+## Example application
+![](./_assets/address-book.gif)
