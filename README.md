@@ -30,3 +30,7 @@ Using the list of requirements in the section below, create plans or diagrams th
 3. A user can create a contact via a form, accessed by clicking a "Create a contact" menu link
     - The form should create a contact with a first and last name, as well as a street and city
     - When submitted, the contact data should be sent to an API that saves it
+
+## Notes
+
+- Your app does not need to look exactly like the image at the top of this readme file as long as it satisfies the requirements
