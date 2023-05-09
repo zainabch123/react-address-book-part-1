@@ -29,4 +29,4 @@ Using the list of requirements in the section below, create plans or diagrams th
     - The view should contain the contact's first and last name, as well as the contact's street and city
 3. A user can create a contact via a form, accessed by clicking a "Create a contact" menu link
     - The form should create a contact with a first and last name, as well as a street and city
-    - When submitted, the contact should be saved to the json-server database and the form should be reset
+    - When submitted, the contact data should be sent to an API that saves it
