@@ -19,6 +19,8 @@ Using the list of requirements in the section below, create plans or diagrams th
 - A prototype app **(Optional - Extension)**
     - A very simple app that demonstrates the desired functionality. This could be entirely done in the `App` component with hard-coded state values and no styling
 
+**Add your plans as screenshots / files to the root of this project, named appropriately so they can be easily identified. E.g. a screenshot of your component tree named `component-tree.jpg`**
+
 ## Requirements
 
 [You must use this API for your state](https://jsonplaceholder.typicode.com/). Scroll down to the section titled "Resources" to view the available endpoints.
