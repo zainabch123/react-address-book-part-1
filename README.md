@@ -10,13 +10,11 @@ Using the list of requirements in the section below, create plans or diagrams th
 
 - A state model **(Required)**
     - This could be a plain text description of an object with specific properties, a sample JSON object, a class diagram
-- User interactions **(Required)**
-    - This could be a flow diagram or a simple bullet point list that details how a user interacts with the application
 - A component tree **(Required)**
     - This should be a simple diagram that details which React components you are going to create and where they exist in the hierarchy. Include any state that each component will be responsible for in this diagram.
-- A style guide **(Optional - Extension)**
+- A style guide **(Optional)**
     - A simple document that lists common CSS values to be used, such as text colours & fonts, button colours etc.
-- A prototype app **(Optional - Extension)**
+- A prototype app **(Optional)**
     - A very simple app that demonstrates the desired functionality. This could be entirely done in the `App` component with hard-coded state values and no styling
 
 **Add your plans as screenshots / files to the root of this project, named appropriately so they can be easily identified. E.g. a screenshot of your component tree named `component-tree.jpg`**
