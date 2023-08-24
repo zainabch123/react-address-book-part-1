@@ -9,7 +9,7 @@ This exercise is entirely focused on planning the development of an application.
 Using the list of requirements in the section below, create plans or diagrams that include:
 
 - A state model **(Required)**
-    - This could be a plain text description of an object with specific properties, a sample JSON object, a class diagram, a badly drawn illustration on the back of a a napkin, etc.
+    - This could be a plain text description of an object with specific properties, a sample JSON object, a class diagram, a badly drawn illustration on the back of a napkin, etc.
 - A component tree **(Required)**
     - This should be a simple diagram that details which React components you are going to create and where they exist in the hierarchy. Include any state that each component will be responsible for in this diagram.
 - A style guide **(Optional)**
