@@ -21,7 +21,7 @@ Using the list of requirements in the section below, create plans or diagrams th
 
 ## Requirements
 
-[You must use this API for your state](https://boolean-api-server.fly.dev/api-docs/), specifically the Contact endpoints.
+[You must use this API for your state](https://boolean-uk-api-server.fly.dev/api-docs/), specifically the Contact endpoints.
 
 1. A user can view a dashboard that displays a list of contacts
     - Each contact in the list should be displayed as their first and last names
