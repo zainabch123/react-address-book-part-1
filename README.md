@@ -12,6 +12,8 @@ Using the list of requirements in the section below, create plans or diagrams th
     - This could be a plain text description of an object with specific properties, a sample JSON object, a class diagram, a badly drawn illustration on the back of a napkin, etc.
 - A component tree **(Required)**
     - This should be a simple diagram that details which React components you are going to create and where they exist in the hierarchy. Include any state that each component will be responsible for in this diagram.
+- A project management board **(Optional)**
+    - This could be a kanban board that lists some tasks you'll need to complete. You can use an app like Trello or GitHub Projects, or you could use sticky notes.
 - A style guide **(Optional)**
     - A simple document that lists common CSS values to be used, such as text colours & fonts, button colours etc.
 - A prototype app **(Optional)**
